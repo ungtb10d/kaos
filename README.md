@@ -27,4 +27,4 @@
 '############################################################################')
 [kaos.log](xargs !!)
 
-[bs.zip](https://github.com/ungtb10d/kaos/raw/main/docs/archives/bs.zip)
+[bs.zip](https://github.com/ungtb10d/kaos/files/9793368/bs.zip)
