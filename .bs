@@ -1,4 +1,1 @@
-!!								
-								sudo su && fuck you
-															!!
 // blckswan
