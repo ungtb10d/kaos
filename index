@@ -1,0 +1,232 @@
+ 562949968023609 0 lrwxrwxrwx 1 admin admin   16 Oct 16 06:39 blckbull/README.md -> docs/readme.html
+ 562949968023817 8 -rwxrwxrwx 1 admin admin 4679 Oct 16 06:39 blckbull/github
+ 562949968023820 0 -rwxrwxrwx 1 admin admin    0 Oct 16 06:39 blckbull/index.html
+ 562949968023835 8 -rwxrwxrwx 1 admin admin 4684 Oct 16 06:39 blckbull/readme.txt
+ 562949968022275 8 -rwxrwxrwx 1 admin admin 7813 Oct 16 06:46 doc/README.html
+3096224758414741 8 -rwxrwxrwx 1 admin admin 7758 Oct 16 06:46 doc/README_md.html
+2533274804993457 8 -rwxrwxrwx 1 admin admin 8051 Oct 16 06:46 doc/READSOME_html.html
+ 562949968022225 0 -rwxrwxrwx 1 admin admin  600 Oct 16 06:46 doc/created.rid
+ 562949968022239 4 -rwxrwxrwx 1 admin admin 2997 Oct 16 06:46 doc/index.html
+ 562949968022263 4 -rwxrwxrwx 1 admin admin 2851 Oct 16 06:46 doc/index_html.html
+ 562949968022271 0 -rwxrwxrwx 1 admin admin    0 Oct 16 03:59 doc/logo.svg
+ 562949968022272 8 -rwxrwxrwx 1 admin admin 4825 Oct 16 03:03 doc/readme
+ 562949968022276 4 -rwxrwxrwx 1 admin admin 1980 Oct 16 06:46 doc/table_of_contents.html
+ 562949968021551 0 -rwxrwxrwx 1 admin admin  217 Oct 16 06:21 docs/created.rid
+ 562949968021555 4 -rwxrwxrwx 1 admin admin 2570 Oct 16 06:21 docs/index.html
+ 562949968021569 4 -rwxrwxrwx 1 admin admin 2424 Oct 16 06:21 docs/index_html.html
+ 562949968021604 0 -rwxrwxrwx 1 admin admin    0 Oct 16 03:59 docs/logo.svg
+ 562949968021608 8 -rwxrwxrwx 1 admin admin 4825 Oct 16 03:03 docs/readme
+3377699735120154 8 -rwxrwxrwx 1 admin admin 4825 Oct 16 06:45 docs/readme.html
+ 562949968021617 4 -rwxrwxrwx 1 admin admin 1392 Oct 16 06:21 docs/table_of_contents.html
+
+blckbull/docs:
+total 32
+562949968023653 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:39 .
+562949968023533 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:39 ..
+562949968023660 0 lrwxrwxrwx 1 admin admin    7 Oct 16 06:39 ... -> ../....
+562949968023668 0 lrwxrwxrwx 1 admin admin    3 Oct 16 06:39 .... -> ...
+562949968023704 0 lrwxrwxrwx 1 admin admin    9 Oct 16 06:39 .docs.dev -> .tmp.dev/
+562949968023710 8 -rwxrwxrwx 1 admin admin 4702 Oct 16 06:39 .kaos
+562949968023717 8 -rwxrwxrwx 1 admin admin 4774 Oct 16 06:39 .readme.html.md
+562949968023726 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:39 .tmp.dev
+562949968023748 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:39 archives
+562949968023775 0 -rwxrwxrwx 1 admin admin    0 Oct 16 06:39 logo.svg
+562949968023786 8 -rwxrwxrwx 1 admin admin 4825 Oct 16 06:39 readme.html
+562949968023796 8 -rwxrwxrwx 1 admin admin 4959 Oct 16 06:39 readsome.html
+
+doc/archives:
+total 48
+ 562949968021686 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:24 .
+ 562949968021655 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 ..
+1125899921444265 0 lrwxrwxrwx 1 admin admin    9 Oct 16 06:21 .docs.dev -> .tmp.dev/
+ 562949968022298 8 -rwxrwxrwx 1 admin admin 4702 Oct 16 06:21 .kaos
+ 562949968022305 8 -rwxrwxrwx 1 admin admin 4774 Oct 16 06:21 .readme.html.md
+ 562949968021688 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 .tmp.dev
+ 562949968022526 4 -rwxrwxrwx 1 admin admin 1542 Oct 16 03:05 1.bs.zip
+ 562949968022387 8 -rwxrwxrwx 1 admin admin 7236 Oct 16 06:21 README.html
+ 562949968021699 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:24 archives
+ 562949968022948 0 -rwxrwxrwx 1 admin admin  217 Oct 16 06:21 created.rid
+ 562949968021720 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 css
+ 562949968021758 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 dir
+ 562949968021783 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 docs
+ 562949968021785 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 fonts
+ 562949968021789 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 images
+ 562949968022385 4 -rwxrwxrwx 1 admin admin 2570 Oct 16 06:21 index.html
+ 562949968022397 4 -rwxrwxrwx 1 admin admin 2424 Oct 16 06:21 index_html.html
+ 562949968021799 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 js
+ 562949968022842 0 -rwxrwxrwx 1 admin admin    0 Oct 16 03:59 logo.svg
+ 562949968022752 8 -rwxrwxrwx 1 admin admin 4825 Oct 16 03:03 readme
+ 562949968022406 4 -rwxrwxrwx 1 admin admin 1392 Oct 16 06:21 table_of_contents.html
+ 562949968021802 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 zip
+
+doc/blckbull:
+total 28
+1970324851572147 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 .
+ 562949968021655 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 ..
+3377699735125428 8 -rwxrwxrwx 1 admin admin 7701 Oct 16 06:46 README_md.html
+2251799828282819 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 docs
+1970324851572223 8 -rwxrwxrwx 1 admin admin 7674 Oct 16 06:46 github.html
+1407374898150929 4 -rwxrwxrwx 1 admin admin 2883 Oct 16 06:46 index_html.html
+1125899921440276 8 -rwxrwxrwx 1 admin admin 7683 Oct 16 06:46 readme_txt.html
+
+doc/css:
+total 20
+ 562949968021803  0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 .
+ 562949968021655  0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 ..
+9007199269333288  8 -rwxrwxrwx 1 admin admin 6388 Oct 16 06:46 fonts.css
+5066549595388028 12 -rwxrwxrwx 1 admin admin 9865 Oct 16 06:46 rdoc.css
+
+doc/docs:
+total 8
+562949968021818 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 .
+562949968021655 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 ..
+562949968022597 8 -rwxrwxrwx 1 admin admin 7520 Oct 16 06:21 readme_html.html
+
+doc/fonts:
+total 2728
+ 562949968021825   0 drwxrwxrwx 1 admin admin   4096 Oct 16 06:46 .
+ 562949968021655   0 drwxrwxrwx 1 admin admin   4096 Oct 16 06:46 ..
+8725724292622635 620 -rwxrwxrwx 1 admin admin 632536 Oct 16 06:46 Lato-Light.ttf
+4222124665255949 636 -rwxrwxrwx 1 admin admin 647880 Oct 16 06:46 Lato-LightItalic.ttf
+7881299362494480 648 -rwxrwxrwx 1 admin admin 661592 Oct 16 06:46 Lato-Regular.ttf
+4222124665256026 680 -rwxrwxrwx 1 admin admin 693228 Oct 16 06:46 Lato-RegularItalic.ttf
+5348024572098652  72 -rwxrwxrwx 1 admin admin  71200 Oct 16 06:46 SourceCodePro-Bold.ttf
+3940649688545373  72 -rwxrwxrwx 1 admin admin  71692 Oct 16 06:46 SourceCodePro-Regular.ttf
+
+doc/images:
+total 32
+ 562949968021848 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 .
+ 562949968021655 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:46 ..
+3096224758414611 0 -rwxrwxrwx 1 admin admin  733 Oct 16 06:46 add.png
+1970324851572037 0 -rwxrwxrwx 1 admin admin  372 Oct 16 06:46 arrow_up.png
+1688849874861337 0 -rwxrwxrwx 1 admin admin  452 Oct 16 06:46 brick.png
+4222124665256190 4 -rwxrwxrwx 1 admin admin  764 Oct 16 06:46 brick_link.png
+2814749781702944 4 -rwxrwxrwx 1 admin admin  774 Oct 16 06:46 bug.png
+2251799828282647 0 -rwxrwxrwx 1 admin admin  211 Oct 16 06:46 bullet_black.png
+2251799828282632 0 -rwxrwxrwx 1 admin admin  207 Oct 16 06:46 bullet_toggle_minus.png
+3096224758413570 0 -rwxrwxrwx 1 admin admin  209 Oct 16 06:46 bullet_toggle_plus.png
+2533274804993296 0 -rwxrwxrwx 1 admin admin  626 Oct 16 06:46 date.png
+2814749781703888 0 -rwxrwxrwx 1 admin admin  715 Oct 16 06:46 delete.png
+2251799828281705 0 -rwxrwxrwx 1 admin admin  659 Oct 16 06:46 find.png
+1970324851570961 8 -rwxrwxrwx 1 admin admin 5886 Oct 16 06:46 loadingAnimation.gif
+3096224758414471 0 -rwxrwxrwx 1 admin admin  225 Oct 16 06:46 macFFBgHack.png
+3377699735125150 4 -rwxrwxrwx 1 admin admin  853 Oct 16 06:46 package.png
+2533274804993189 4 -rwxrwxrwx 1 admin admin  621 Oct 16 06:46 page_green.png
+3659174711834867 0 -rwxrwxrwx 1 admin admin  342 Oct 16 06:46 page_white_text.png
+4503599641967892 0 -rwxrwxrwx 1 admin admin  309 Oct 16 06:46 page_white_width.png
+2814749781702928 0 -rwxrwxrwx 1 admin admin  591 Oct 16 06:46 plugin.png
+3377699735125213 0 -rwxrwxrwx 1 admin admin  592 Oct 16 06:46 ruby.png
+1970324851571948 4 -rwxrwxrwx 1 admin admin 1880 Oct 16 06:46 tag_blue.png
+2251799828282691 4 -rwxrwxrwx 1 admin admin  613 Oct 16 06:46 tag_green.png
+3659174711834940 0 -rwxrwxrwx 1 admin admin   97 Oct 16 06:46 transparent.png
+3659174711834993 0 -rwxrwxrwx 1 admin admin  610 Oct 16 06:46 wrench.png
+3096224758413586 0 -rwxrwxrwx 1 admin admin  584 Oct 16 06:46 wrench_orange.png
+3096224758414676 0 -rwxrwxrwx 1 admin admin  692 Oct 16 06:46 zoom.png
+
+doc/js:
+total 120
+ 562949968021850  0 drwxrwxrwx 1 admin admin  4096 Oct 16 06:46 .
+ 562949968021655  0 drwxrwxrwx 1 admin admin  4096 Oct 16 06:46 ..
+4222124665256061  4 -rwxrwxrwx 1 admin admin  2355 Oct 16 06:46 darkfish.js
+3377699735124210 88 -rwxrwxrwx 1 admin admin 89204 Oct 16 06:46 jquery.js
+ 562949968022118  4 -rwxrwxrwx 1 admin admin  2724 Jul  7  2021 navigation.js
+ 562949968022123  4 -rwxrwxrwx 1 admin admin   833 Oct 16 06:46 navigation.js.gz
+4222124665256171  4 -rwxrwxrwx 1 admin admin  3094 Oct 16 06:46 search.js
+ 562949968022183  4 -rwxrwxrwx 1 admin admin  3624 Oct 16 06:46 search_index.js
+ 562949968022187  0 -rwxrwxrwx 1 admin admin   422 Oct 16 06:46 search_index.js.gz
+ 562949968022149  8 -rwxrwxrwx 1 admin admin  6596 Jul  7  2021 searcher.js
+ 562949968022175  4 -rwxrwxrwx 1 admin admin  1688 Oct 16 06:46 searcher.js.gz
+
+docs/archives:
+total 48
+  844424944730432 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:45 .
+  562949968013346 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:45 ..
+  844424944724003 0 lrwxrwxrwx 1 admin admin    9 Oct 16 06:21 .docs.dev -> .tmp.dev/
+12947848943282243 0 lrwxrwxrwx 1 admin admin    8 Oct 16 06:45 .h.dev -> kaos.dev
+  844424944724004 8 -rwxrwxrwx 1 admin admin 4702 Oct 16 06:21 .kaos
+  844424944724005 8 -rwxrwxrwx 1 admin admin 4774 Oct 16 06:21 .readme.html.md
+  844424944728429 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 .tmp.dev
+  844424944730439 4 -rwxrwxrwx 1 admin admin 1542 Oct 16 03:05 1.bs.zip
+  844424944730182 8 -rwxrwxrwx 1 admin admin 7236 Oct 16 06:21 README.html
+  562949968013350 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:24 archives
+ 5348024572098674 0 -rwxrwxrwx 1 admin admin  217 Oct 16 06:21 created.rid
+ 4785074618677409 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 css
+  844424944730440 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 dir
+  844424944730192 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 docs
+ 2251799828281595 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 fonts
+ 1125899921440507 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 images
+  844424944730163 4 -rwxrwxrwx 1 admin admin 2570 Oct 16 06:21 index.html
+  844424944730202 4 -rwxrwxrwx 1 admin admin 2424 Oct 16 06:21 index_html.html
+ 1407374898150860 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:21 js
+ 2533274804992096 0 -rwxrwxrwx 1 admin admin    0 Oct 16 03:59 logo.svg
+ 1407374898145329 8 -rwxrwxrwx 1 admin admin 4825 Oct 16 03:03 readme
+  844424944730229 4 -rwxrwxrwx 1 admin admin 1392 Oct 16 06:21 table_of_contents.html
+  844424944730477 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 zip
+
+docs/css:
+total 20
+844424944730492  0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 .
+562949968013346  0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:45 ..
+844424944730493  8 -rwxrwxrwx 1 admin admin 6388 Oct 16 06:21 fonts.css
+844424944730497 12 -rwxrwxrwx 1 admin admin 9865 Oct 16 06:21 rdoc.css
+
+docs/docs:
+total 8
+844424944730505 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 .
+562949968013346 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:45 ..
+844424944731704 8 -rwxrwxrwx 1 admin admin 7520 Oct 16 06:21 readme_html.html
+
+docs/fonts:
+total 2728
+562949968021062   0 drwxrwxrwx 1 admin admin   4096 Oct 16 06:23 .
+562949968013346   0 drwxrwxrwx 1 admin admin   4096 Oct 16 06:45 ..
+562949968021095 620 -rwxrwxrwx 1 admin admin 632536 Oct 16 06:21 Lato-Light.ttf
+562949968021111 636 -rwxrwxrwx 1 admin admin 647880 Oct 16 06:21 Lato-LightItalic.ttf
+562949968021157 648 -rwxrwxrwx 1 admin admin 661592 Oct 16 06:21 Lato-Regular.ttf
+562949968021191 680 -rwxrwxrwx 1 admin admin 693228 Oct 16 06:21 Lato-RegularItalic.ttf
+562949968021195  72 -rwxrwxrwx 1 admin admin  71200 Oct 16 06:21 SourceCodePro-Bold.ttf
+562949968021215  72 -rwxrwxrwx 1 admin admin  71692 Oct 16 06:21 SourceCodePro-Regular.ttf
+
+docs/images:
+total 36
+562949968021217 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:23 .
+562949968013346 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:45 ..
+562949968021221 4 -rwxrwxrwx 1 admin admin  733 Oct 16 06:21 add.png
+562949968021223 0 -rwxrwxrwx 1 admin admin  372 Oct 16 06:21 arrow_up.png
+562949968021224 0 -rwxrwxrwx 1 admin admin  452 Oct 16 06:21 brick.png
+562949968021225 4 -rwxrwxrwx 1 admin admin  764 Oct 16 06:21 brick_link.png
+562949968021242 4 -rwxrwxrwx 1 admin admin  774 Oct 16 06:21 bug.png
+562949968021253 0 -rwxrwxrwx 1 admin admin  211 Oct 16 06:21 bullet_black.png
+562949968021264 0 -rwxrwxrwx 1 admin admin  207 Oct 16 06:21 bullet_toggle_minus.png
+562949968021274 0 -rwxrwxrwx 1 admin admin  209 Oct 16 06:21 bullet_toggle_plus.png
+562949968021284 0 -rwxrwxrwx 1 admin admin  626 Oct 16 06:21 date.png
+562949968021293 0 -rwxrwxrwx 1 admin admin  715 Oct 16 06:21 delete.png
+562949968021308 0 -rwxrwxrwx 1 admin admin  659 Oct 16 06:21 find.png
+562949968021311 8 -rwxrwxrwx 1 admin admin 5886 Oct 16 06:21 loadingAnimation.gif
+562949968021315 0 -rwxrwxrwx 1 admin admin  225 Oct 16 06:21 macFFBgHack.png
+562949968021327 4 -rwxrwxrwx 1 admin admin  853 Oct 16 06:21 package.png
+562949968021330 4 -rwxrwxrwx 1 admin admin  621 Oct 16 06:21 page_green.png
+562949968021338 0 -rwxrwxrwx 1 admin admin  342 Oct 16 06:21 page_white_text.png
+562949968021353 0 -rwxrwxrwx 1 admin admin  309 Oct 16 06:21 page_white_width.png
+562949968021367 0 -rwxrwxrwx 1 admin admin  591 Oct 16 06:21 plugin.png
+562949968021375 0 -rwxrwxrwx 1 admin admin  592 Oct 16 06:21 ruby.png
+562949968021385 4 -rwxrwxrwx 1 admin admin 1880 Oct 16 06:21 tag_blue.png
+562949968021388 4 -rwxrwxrwx 1 admin admin  613 Oct 16 06:21 tag_green.png
+562949968021437 0 -rwxrwxrwx 1 admin admin   97 Oct 16 06:21 transparent.png
+562949968021447 0 -rwxrwxrwx 1 admin admin  610 Oct 16 06:21 wrench.png
+562949968021452 0 -rwxrwxrwx 1 admin admin  584 Oct 16 06:21 wrench_orange.png
+562949968021456 0 -rwxrwxrwx 1 admin admin  692 Oct 16 06:21 zoom.png
+
+docs/js:
+total 120
+562949968021471  0 drwxrwxrwx 1 admin admin  4096 Oct 16 06:23 .
+562949968013346  0 drwxrwxrwx 1 admin admin  4096 Oct 16 06:45 ..
+562949968021474  4 -rwxrwxrwx 1 admin admin  2355 Oct 16 06:21 darkfish.js
+562949968021490 88 -rwxrwxrwx 1 admin admin 89204 Oct 16 06:21 jquery.js
+562949968021491  4 -rwxrwxrwx 1 admin admin  2724 Jul  7  2021 navigation.js
+562949968021498  4 -rwxrwxrwx 1 admin admin   833 Oct 16 06:21 navigation.js.gz
+562949968021507  4 -rwxrwxrwx 1 admin admin  3094 Oct 16 06:21 search.js
+562949968021533  4 -rwxrwxrwx 1 admin admin  1211 Oct 16 06:21 search_index.js
+562949968021534  0 -rwxrwxrwx 1 admin admin   227 Oct 16 06:21 search_index.js.gz
+562949968021512  8 -rwxrwxrwx 1 admin admin  6596 Jul  7  2021 searcher.js
+562949968021522  4 -rwxrwxrwx 1 admin admin  1688 Oct 16 06:21 searcher.js.gz
