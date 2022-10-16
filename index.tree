@@ -1,0 +1,279 @@
+.
+├── blckbull -> blckbull.git/
+├── blckbull.git
+│   ├── docs
+│   │   ├── archives
+│   │   │   ├── 1.bs.zip
+│   │   │   └── zip
+│   │   │       └── bs.zip
+│   │   ├── logo.svg
+│   │   ├── readme.html
+│   │   └── readsome.html
+│   ├── github
+│   ├── index.html
+│   ├── README.md -> docs/readme.html
+│   └── readme.txt
+├── doc
+│   ├── archives
+│   │   ├── 1.bs.zip
+│   │   ├── archives
+│   │   │   ├── 1.bs.zip
+│   │   │   ├── dir
+│   │   │   │   └── devfiles.old
+│   │   │   └── zip
+│   │   │       └── bs.zip
+│   │   ├── created.rid
+│   │   ├── css
+│   │   │   ├── fonts.css
+│   │   │   └── rdoc.css
+│   │   ├── dir
+│   │   │   └── devfiles.old
+│   │   ├── docs
+│   │   │   └── readme_html.html
+│   │   ├── fonts
+│   │   │   ├── Lato-LightItalic.ttf
+│   │   │   ├── Lato-Light.ttf
+│   │   │   ├── Lato-RegularItalic.ttf
+│   │   │   ├── Lato-Regular.ttf
+│   │   │   ├── SourceCodePro-Bold.ttf
+│   │   │   └── SourceCodePro-Regular.ttf
+│   │   ├── images
+│   │   │   ├── add.png
+│   │   │   ├── arrow_up.png
+│   │   │   ├── brick_link.png
+│   │   │   ├── brick.png
+│   │   │   ├── bug.png
+│   │   │   ├── bullet_black.png
+│   │   │   ├── bullet_toggle_minus.png
+│   │   │   ├── bullet_toggle_plus.png
+│   │   │   ├── date.png
+│   │   │   ├── delete.png
+│   │   │   ├── find.png
+│   │   │   ├── loadingAnimation.gif
+│   │   │   ├── macFFBgHack.png
+│   │   │   ├── package.png
+│   │   │   ├── page_green.png
+│   │   │   ├── page_white_text.png
+│   │   │   ├── page_white_width.png
+│   │   │   ├── plugin.png
+│   │   │   ├── ruby.png
+│   │   │   ├── tag_blue.png
+│   │   │   ├── tag_green.png
+│   │   │   ├── transparent.png
+│   │   │   ├── wrench_orange.png
+│   │   │   ├── wrench.png
+│   │   │   └── zoom.png
+│   │   ├── index.html
+│   │   ├── index_html.html
+│   │   ├── js
+│   │   │   ├── darkfish.js
+│   │   │   ├── jquery.js
+│   │   │   ├── navigation.js
+│   │   │   ├── navigation.js.gz
+│   │   │   ├── searcher.js
+│   │   │   ├── searcher.js.gz
+│   │   │   ├── search_index.js
+│   │   │   ├── search_index.js.gz
+│   │   │   └── search.js
+│   │   ├── logo.svg
+│   │   ├── readme
+│   │   ├── README.html
+│   │   ├── table_of_contents.html
+│   │   └── zip
+│   │       └── bs.zip
+│   ├── blckbull
+│   │   ├── docs
+│   │   │   ├── readme_html.html
+│   │   │   └── readsome_html.html
+│   │   ├── github.html
+│   │   ├── index_html.html
+│   │   ├── README_md.html
+│   │   └── readme_txt.html
+│   ├── created.rid
+│   ├── css
+│   │   ├── fonts.css
+│   │   └── rdoc.css
+│   ├── docs
+│   │   └── readme_html.html
+│   ├── fonts
+│   │   ├── Lato-LightItalic.ttf
+│   │   ├── Lato-Light.ttf
+│   │   ├── Lato-RegularItalic.ttf
+│   │   ├── Lato-Regular.ttf
+│   │   ├── SourceCodePro-Bold.ttf
+│   │   └── SourceCodePro-Regular.ttf
+│   ├── images
+│   │   ├── add.png
+│   │   ├── arrow_up.png
+│   │   ├── brick_link.png
+│   │   ├── brick.png
+│   │   ├── bug.png
+│   │   ├── bullet_black.png
+│   │   ├── bullet_toggle_minus.png
+│   │   ├── bullet_toggle_plus.png
+│   │   ├── date.png
+│   │   ├── delete.png
+│   │   ├── find.png
+│   │   ├── loadingAnimation.gif
+│   │   ├── macFFBgHack.png
+│   │   ├── package.png
+│   │   ├── page_green.png
+│   │   ├── page_white_text.png
+│   │   ├── page_white_width.png
+│   │   ├── plugin.png
+│   │   ├── ruby.png
+│   │   ├── tag_blue.png
+│   │   ├── tag_green.png
+│   │   ├── transparent.png
+│   │   ├── wrench_orange.png
+│   │   ├── wrench.png
+│   │   └── zoom.png
+│   ├── index.html
+│   ├── index_html.html
+│   ├── js
+│   │   ├── darkfish.js
+│   │   ├── jquery.js
+│   │   ├── navigation.js
+│   │   ├── navigation.js.gz
+│   │   ├── searcher.js
+│   │   ├── searcher.js.gz
+│   │   ├── search_index.js
+│   │   ├── search_index.js.gz
+│   │   └── search.js
+│   ├── logo.svg
+│   ├── readme
+│   ├── README.html
+│   ├── README_md.html
+│   ├── READSOME_html.html
+│   └── table_of_contents.html
+├── docs
+│   ├── archives
+│   │   ├── 1.bs.zip
+│   │   ├── archives
+│   │   │   ├── 1.bs.zip
+│   │   │   ├── dir
+│   │   │   │   └── devfiles.old
+│   │   │   └── zip
+│   │   │       └── bs.zip
+│   │   ├── created.rid
+│   │   ├── css
+│   │   │   ├── fonts.css
+│   │   │   └── rdoc.css
+│   │   ├── dir
+│   │   │   └── devfiles.old
+│   │   ├── docs
+│   │   │   └── readme_html.html
+│   │   ├── fonts
+│   │   │   ├── Lato-LightItalic.ttf
+│   │   │   ├── Lato-Light.ttf
+│   │   │   ├── Lato-RegularItalic.ttf
+│   │   │   ├── Lato-Regular.ttf
+│   │   │   ├── SourceCodePro-Bold.ttf
+│   │   │   └── SourceCodePro-Regular.ttf
+│   │   ├── images
+│   │   │   ├── add.png
+│   │   │   ├── arrow_up.png
+│   │   │   ├── brick_link.png
+│   │   │   ├── brick.png
+│   │   │   ├── bug.png
+│   │   │   ├── bullet_black.png
+│   │   │   ├── bullet_toggle_minus.png
+│   │   │   ├── bullet_toggle_plus.png
+│   │   │   ├── date.png
+│   │   │   ├── delete.png
+│   │   │   ├── find.png
+│   │   │   ├── loadingAnimation.gif
+│   │   │   ├── macFFBgHack.png
+│   │   │   ├── package.png
+│   │   │   ├── page_green.png
+│   │   │   ├── page_white_text.png
+│   │   │   ├── page_white_width.png
+│   │   │   ├── plugin.png
+│   │   │   ├── ruby.png
+│   │   │   ├── tag_blue.png
+│   │   │   ├── tag_green.png
+│   │   │   ├── transparent.png
+│   │   │   ├── wrench_orange.png
+│   │   │   ├── wrench.png
+│   │   │   └── zoom.png
+│   │   ├── index.html
+│   │   ├── index_html.html
+│   │   ├── js
+│   │   │   ├── darkfish.js
+│   │   │   ├── jquery.js
+│   │   │   ├── navigation.js
+│   │   │   ├── navigation.js.gz
+│   │   │   ├── searcher.js
+│   │   │   ├── searcher.js.gz
+│   │   │   ├── search_index.js
+│   │   │   ├── search_index.js.gz
+│   │   │   └── search.js
+│   │   ├── logo.svg
+│   │   ├── readme
+│   │   ├── README.html
+│   │   ├── table_of_contents.html
+│   │   └── zip
+│   │       └── bs.zip
+│   ├── created.rid
+│   ├── css
+│   │   ├── fonts.css
+│   │   └── rdoc.css
+│   ├── docs
+│   │   └── readme_html.html
+│   ├── fonts
+│   │   ├── Lato-LightItalic.ttf
+│   │   ├── Lato-Light.ttf
+│   │   ├── Lato-RegularItalic.ttf
+│   │   ├── Lato-Regular.ttf
+│   │   ├── SourceCodePro-Bold.ttf
+│   │   └── SourceCodePro-Regular.ttf
+│   ├── images
+│   │   ├── add.png
+│   │   ├── arrow_up.png
+│   │   ├── brick_link.png
+│   │   ├── brick.png
+│   │   ├── bug.png
+│   │   ├── bullet_black.png
+│   │   ├── bullet_toggle_minus.png
+│   │   ├── bullet_toggle_plus.png
+│   │   ├── date.png
+│   │   ├── delete.png
+│   │   ├── find.png
+│   │   ├── loadingAnimation.gif
+│   │   ├── macFFBgHack.png
+│   │   ├── package.png
+│   │   ├── page_green.png
+│   │   ├── page_white_text.png
+│   │   ├── page_white_width.png
+│   │   ├── plugin.png
+│   │   ├── ruby.png
+│   │   ├── tag_blue.png
+│   │   ├── tag_green.png
+│   │   ├── transparent.png
+│   │   ├── wrench_orange.png
+│   │   ├── wrench.png
+│   │   └── zoom.png
+│   ├── index.html
+│   ├── index_html.html
+│   ├── js
+│   │   ├── darkfish.js
+│   │   ├── jquery.js
+│   │   ├── navigation.js
+│   │   ├── navigation.js.gz
+│   │   ├── searcher.js
+│   │   ├── searcher.js.gz
+│   │   ├── search_index.js
+│   │   ├── search_index.js.gz
+│   │   └── search.js
+│   ├── logo.svg
+│   ├── readme
+│   ├── readme.html
+│   └── table_of_contents.html
+├── index
+├── index.html
+├── index.tree
+├── README
+├── README.md -> README
+└── READSOME.html
+
+45 directories, 231 files
