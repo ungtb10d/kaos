@@ -1,0 +1,41 @@
+4503599641962455 0 -rwxrwxrwx 1 admin admin    0 Oct 16 04:28 ....
+
+.:
+total 1076
+ 562949968013278    0 drwxrwxrwx 1 admin admin    4096 Oct 16 06:18 .
+5348024572094175    0 drwxrwxrwx 1 admin admin    4096 Oct 16 04:36 ..
+4503599641962455    0 -rwxrwxrwx 1 admin admin       0 Oct 16 04:28 ....
+ 562949968013346    0 drwxrwxrwx 1 admin admin    4096 Oct 16 05:03 docs
+1125899921440204    4 -rwxrwxrwx 1 admin admin    1808 Oct 16 06:01 FOOT
+ 562949968013279    0 drwxrwxrwx 1 admin admin    4096 Oct 16 06:17 .git
+4222124665251865    4 -rwxrwxrwx 1 admin admin    1957 Oct 16 06:01 HEAD
+4503599641967929    0 -rwxrwxrwx 1 admin admin       0 Oct 16 06:18 index
+6755399455647694    4 -rwxrwxrwx 1 admin admin    3604 Oct 16 06:01 random
+4503599641966753 1060 -rwxrwxrwx 1 admin admin 1084066 Oct 16 06:06 random.bg
+5066549595388018    4 -rwxrwxrwx 1 admin admin    1808 Oct 16 06:16 README.md
+
+..:
+total 0
+5348024572094175 0 drwxrwxrwx 1 admin admin 4096 Oct 16 04:36 .
+3096224757047645 0 drwxrwxrwx 1 admin admin 4096 Oct 16 02:40 ..
+ 562949968013278 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:18 kaos
+1125899921439492 0 drwxrwxrwx 1 admin admin 4096 Oct 16 04:36 tmp
+
+.git:
+total 12
+  562949968013279 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:17 .
+  562949968013278 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:18 ..
+  562949968013285 0 drwxrwxrwx 1 admin admin 4096 Oct 16 02:41 branches
+  844424944724018 4 -rwxrwxrwx 1 admin admin 1234 Oct 16 06:17 COMMIT_EDITMSG
+ 1688849874859719 0 -rwxrwxrwx 1 admin admin  455 Oct 16 04:01 config
+  562949968013280 0 -rwxrwxrwx 1 admin admin   73 Oct 16 02:41 description
+  844424944723916 0 -rwxrwxrwx 1 admin admin  312 Oct 16 06:01 FETCH_HEAD
+ 4503599641967527 0 -rwxrwxrwx 1 admin admin   21 Oct 16 06:01 HEAD
+  562949968013286 0 drwxrwxrwx 1 admin admin 4096 Oct 16 02:41 hooks
+ 2814749781703954 4 -rwxrwxrwx 1 admin admin 2309 Oct 16 06:16 index
+  562949968013281 0 drwxrwxrwx 1 admin admin 4096 Oct 16 05:15 info
+  562949968013333 0 drwxrwxrwx 1 admin admin 4096 Oct 16 05:15 logs
+ 1125899921434629 0 drwxrwxrwx 1 admin admin 4096 Oct 16 06:17 objects
+12103424013150687 0 -rwxrwxrwx 1 admin admin   41 Oct 16 06:01 ORIG_HEAD
+  844424944729599 4 -rwxrwxrwx 1 admin admin  679 Oct 16 05:15 packed-refs
+  562949968013312 0 drwxrwxrwx 1 admin admin 4096 Oct 16 05:15 refs
